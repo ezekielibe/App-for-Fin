@@ -1,2 +1,2 @@
 # App-for-Fin
-Interactive web application for Financial Calculation
+Interactive web application for Financial Function Calculation
